@@ -1,0 +1,12 @@
+{
+    "name": "auth/authentication",
+    "description": "Authentication System",
+    "authors": [
+        {
+            "name": "admin",
+            "email": "admin@sintheetaa.in"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}

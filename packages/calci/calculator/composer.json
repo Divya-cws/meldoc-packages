@@ -1,0 +1,12 @@
+{
+    "name": "calci/calculator",
+    "description": "Used to calculation",
+    "authors": [
+        {
+            "name": "divya",
+            "email": "divya@sintheetaa.in"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}

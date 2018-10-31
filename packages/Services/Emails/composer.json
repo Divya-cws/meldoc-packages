@@ -1,0 +1,11 @@
+{
+    "name": "services/emails",
+    "description": "To use email service generally",
+    "authors": [
+        {
+            "name": "divya",
+            "email": "divya@sintheetaa.in"
+        }
+    ],
+    "require": {}
+}
